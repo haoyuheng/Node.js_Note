@@ -28,7 +28,7 @@ node.JS的单线程异步
 
       换句话说，我们继续用刚刚的例子，这个人不是在切菜或者炒菜，就是在检查水有没有烧开，饭有没有煮熟。所以即使是单线程依旧能使用异步模式。
       
-      ![image](https://github.com/haoyuheng/Nodejs-/blob/master/node_io.png)
+      ![image](https://github.com/haoyuheng/Nodejs-/blob/master/Asynchronous_IO/node_io.png)
 
  
 
