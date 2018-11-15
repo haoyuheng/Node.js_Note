@@ -115,6 +115,8 @@ Promise.all(
    console.log(responses[2]);
  })
 ```
+更多Promise的详解可以参考[官方文档](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
 参考
 --
 [【1】为什么我们需要promise](https://www.jianshu.com/p/b68029f80c83)<br>
