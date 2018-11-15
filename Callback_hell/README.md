@@ -1,4 +1,4 @@
-Node.js 回调地狱 解决方法：Eventproxy Vs Promise
+Node.js 回调地狱 解决方法：Eventproxy, Promise, Async/Await
 ====
 异步编程给我们带来了非常多的好处，尤其是在程序性能方面，但同时也带来了一些编程上的困难：回调地狱（callback hell）。
 
@@ -116,6 +116,10 @@ Promise.all(
  })
 ```
 更多Promise的详解可以参考[官方文档](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+(3)Async/Await
+--
+见[理解 async/await](https://segmentfault.com/a/1190000010244279)一文，其github项目地址为：https://github.com/caolan/async
 
 参考
 --
