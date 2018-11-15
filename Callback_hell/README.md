@@ -117,5 +117,5 @@ Promise.all(
 ```
 参考
 --
-[【1】为什么我们需要promise](https://www.jianshu.com/p/b68029f80c83)
+[【1】为什么我们需要promise](https://www.jianshu.com/p/b68029f80c83)<br>
 [【2】避免Node.js中回调地狱](https://www.cnblogs.com/greatluoluo/p/6288931.html)
